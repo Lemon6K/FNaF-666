@@ -1,0 +1,6 @@
+x=msgbox("You Computer is full shit!", 4+16, "LOL :)")
+x=msgbox("You Computer is full shit!", 4+16, "LOL :)")
+x=msgbox("You Computer is full shit!", 4+16, "LOL :)")
+x=msgbox("You Computer is full shit!", 4+16, "LOL :)")
+x=msgbox("You Computer is full shit!", 4+16, "LOL :)")
+x=msgbox("You Computer is full shit!", 4+16, "LOL :)")

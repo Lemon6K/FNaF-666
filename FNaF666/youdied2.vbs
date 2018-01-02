@@ -1,0 +1,8 @@
+x=msgbox("YOU DIED!!!", 4+16, "YOU DIED")
+x=msgbox("YOU DIED!!!", 4+16, "YOU DIED")
+x=msgbox("YOU DIED!!!", 4+16, "YOU DIED")
+x=msgbox("YOU DIED!!!", 4+16, "YOU DIED")
+x=msgbox("YOU DIED!!!", 4+16, "YOU DIED")
+x=msgbox("YOU DIED!!!", 4+16, "YOU DIED")
+x=msgbox("YOU DIED!!!", 4+16, "YOU DIED")
+x=msgbox("YOU DIED!!!", 4+16, "YOU DIED")

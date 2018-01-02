@@ -1,0 +1,30 @@
+@echo off
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+start C:\Users\%USERNAME%\Desktop\FNaF666\netras.vbs
+
+exit
